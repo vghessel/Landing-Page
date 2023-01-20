@@ -1,3 +1,3 @@
 # Landing Page
 
-First project exploring the Front-End (HTML and CSS)
+First project exploring the Front-End (HTML and CSS).
